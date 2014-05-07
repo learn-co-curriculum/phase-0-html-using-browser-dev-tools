@@ -1,3 +1,9 @@
+---
+tags: developer tools, HTML, kids
+languages: HTML
+---
+
+
 ## Dev Tools Super Power
 
 The Developer tools that browsers provide you are super powerful and are a really good way to edit HTML and CSS and see immediately how those changes are rendered in the browser. We're going to be using the Chrome browser.
