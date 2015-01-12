@@ -26,11 +26,11 @@ If you refresh the page, your text will disappear. We're just editing HTML in ou
 See if you can find an image. It will be wrapped in HTML tags that start with `<img src=`.... You can right click on the image tag in the HTML and again select `Edit as HTML`. Between the quotes after `src=` you can replace the image with another one from a website.../
 
 ```
-<img src="./my_image.jpg">
+<img src="./my_image.jpg" alt="Some Image">
 ```
 Can become...
 ```
-<img src="http://images2.fanpop.com/image/photos/9400000/Aaaaaawwwwwwwwww-Sweet-puppies-9415255-1600-1200.jpg">
+<img src="http://images2.fanpop.com/image/photos/9400000/Aaaaaawwwwwwwwww-Sweet-puppies-9415255-1600-1200.jpg" alt="Puppies">
 ```
 
 Feel free to play with other HTML elements and watch things change on the page.
