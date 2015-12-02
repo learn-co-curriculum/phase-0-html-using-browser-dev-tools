@@ -37,3 +37,5 @@ Feel free to play around, check and uncheck boxes, change colors, change pixels.
 
 
 
+
+<a href='https://learn.co/lessons/dev-tools-super-power' data-visibility='hidden'>View this lesson on Learn.co</a>
