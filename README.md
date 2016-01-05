@@ -11,7 +11,7 @@ If you hover over elements, you should see different colored boxes appear over d
 <p class="ProfileTweet-text js-tweet-text u-dir" dir="ltr">...</p>
 ``` 
 
-There should be a drop down arrow next to the first `<p`... when you click that, more text should show up, inlcuding the actual body of the tweet. We want to right click that text and select `Edit as HTML`.
+There should be a drop down arrow next to the first `<p`... when you click that, more text should show up, including the actual body of the tweet. We want to right click that text and select `Edit as HTML`.
 
 A new window will pop up where we can actually go in and type. Here you can delete the body of the tweet, and enter your own message. Once you're done, just click outside of the text window, and take a look back at the tweet in the browser. It should have changed your message.
 
