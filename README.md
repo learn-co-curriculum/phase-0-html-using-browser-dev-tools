@@ -38,4 +38,4 @@ Feel free to play around, check and uncheck boxes, change colors, change pixels.
 
 
 
-<a href='https://learn.co/lessons/dev-tools-super-power' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/dev-tools-super-power' title='Dev Tools Super Power'>Dev Tools Super Power</a> on Learn.co and start learning to code for free.</p>
