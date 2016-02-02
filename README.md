@@ -4,7 +4,7 @@ The Developer tools that browsers provide you are super powerful and are a reall
 
 For this lab, please open the Twitter account of your favorite celebrity in Chrome. If you don't know their Twitter handle, a quick google search should find it down for you.
 
-Once the page is open, right click on the body of their very first tweet. You should get a list of options. We want to click on the one that says `Inspect Element`. This is going to bring up a window at the bottom of the page that contains all of the HTML that make of that Twitter page. 
+Once the page is open, right click on the body of their very first tweet. You should get a list of options. We want to click on the one that says `Inspect Element`. This is going to bring up a window at the bottom of the page that contains all of the HTML that make up that Twitter page. 
 
 If you hover over elements, you should see different colored boxes appear over different parts of the page. We're going to hover over the HTML until we find the section that contains the text of the first tweet. It should look like this 
 ```
@@ -38,4 +38,6 @@ Feel free to play around, check and uncheck boxes, change colors, change pixels.
 
 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/dev-tools-super-power' title='Dev Tools Super Power'>Dev Tools Super Power</a> on Learn.co and start learning to code for free.</p>
+<a href='https://learn.co/lessons/dev-tools-super-power' data-visibility='hidden'>View this lesson on Learn.co</a>
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/dev-tools-super-power'>Dev Tools Super Power</a> on Learn.co and start learning to code for free.</p>
