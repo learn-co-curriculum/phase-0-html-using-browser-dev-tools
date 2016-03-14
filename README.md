@@ -2,9 +2,9 @@
 
 The Developer tools that browsers provide you are super powerful and are a really good way to edit HTML and CSS and see immediately how those changes are rendered in the browser. We're going to be using the Chrome browser.
 
-For this lab, please open the Twitter account of your favorite celebrity in Chrome. If you don't know their Twitter handle, a quick google search should find it down for you.
+For this lab, please open the Twitter account of your favorite celebrity in Chrome. If you don't know their Twitter handle, a quick Google search should find it for you.
 
-Once the page is open, right click on the body of their very first tweet. You should get a list of options. We want to click on the one that says `Inspect Element`. This is going to bring up a window at the bottom of the page that contains all of the HTML that make up that Twitter page. 
+Once the page is open, right click on the body of their very first tweet. You should get a list of options. We want to click on the one that says `Inspect Element`. This is going to bring up a window at the bottom of the page that contains all of the HTML that makes up that Twitter page. 
 
 If you hover over elements, you should see different colored boxes appear over different parts of the page. We're going to hover over the HTML until we find the section that contains the text of the first tweet. It should look like this 
 ```
@@ -33,7 +33,7 @@ Feel free to play with other HTML elements and watch things change on the page.
 If you want to attempt to change any of the styles of the page, take a look at the right-hand column. CSS, which stands for Cascading StyleSheets, manages all the styles of your page (think background color, font size, placement of different items on the page, etc).
 
 
-Feel free to play around, check and uncheck boxes, change colors, change pixels. It's okay if you "mess things up", just refresh the browser and it will all go back to how it was!
+Feel free to play around, check and uncheck boxes, change colors, change pixels. It's okay if you "mess things up". Just refresh the browser and it will all go back to how it was!
 
 
 
