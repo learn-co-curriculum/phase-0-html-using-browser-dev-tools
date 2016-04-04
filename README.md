@@ -6,7 +6,7 @@ For this lab, please open the Twitter account of your favorite celebrity in Chro
 
 Once the page is open, right click on the body of their very first tweet. You should get a list of options. We want to click on the one that says `Inspect Element`. This is going to bring up a window at the bottom of the page that contains all of the HTML that makes up that Twitter page. 
 
-If you hover over elements, you should see different colored boxes appear over different parts of the page. We're going to hover over the HTML until we find the section that contains the text of the first tweet. It should look like this 
+If you hover over elements, you should see different colored boxes appear over different parts of the page. We're going to hover over the HTML until we find the section that contains the text of the first tweet. It should look like this: 
 ```
 <p class="ProfileTweet-text js-tweet-text u-dir" dir="ltr">...</p>
 ``` 
