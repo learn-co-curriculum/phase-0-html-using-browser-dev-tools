@@ -2,7 +2,7 @@
 
 The Developer tools that browsers provide you are super powerful and are a really good way to edit HTML and CSS and see immediately how those changes are rendered in the browser. We're going to be using the Chrome browser.
 
-For this lab, please open the Twitter account of your favorite celebrity in Chrome. If you don't know their Twitter handle, a quick Google search should find it for you.
+For this lesson, please open the Twitter account of your favorite celebrity in Chrome. If you don't know their Twitter handle, a quick Google search should find it for you.
 
 Once the page is open, right click on the body of their very first tweet. You should get a list of options. We want to click on the one that says `Inspect Element`. This is going to bring up a window at the bottom of the page that contains all of the HTML that makes up that Twitter page.
 
