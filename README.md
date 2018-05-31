@@ -19,17 +19,22 @@ For this lesson, please open the Twitter account of your favorite celebrity in C
 
 Once the page is open, right click on the body of their very first tweet. You should get a list of options. We want to click on the one that says `Inspect`. This is going to bring up a window at the bottom of the page that contains all of the HTML that makes up that Twitter page.
 
+## Use the developer tools to locate and inspect elements
+
 If you hover over elements, you should see different colored boxes appear over different parts of the page. We're going to hover over the HTML until we find the section that contains the text of the first tweet. It should look like this:
 ```
 <p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en" data-aria-label-part="0">...</p>
 ```
 
-There should be a drop down arrow next to the first `<p`... when you click that, more text should show up, including the actual body of the tweet. We want to right click that text and select `Edit as HTML`.
+## Edit HTML using the developer tools 
 
-A new window will pop up where we can actually go in and type. Here you can delete the body of the tweet, and enter your own message. Once you're done, just click outside of the text window, and take a look back at the tweet in the browser. It should have changed your message.
+There should be a drop down arrow next to the first `<p`... If you don't already see more elements nested under that `<p>`, click on the arrow. When you click it, more text should show up, including the actual body of the tweet. Right click that text and select `Edit as HTML`.
 
-If you refresh the page, your text will disappear. We're just editing HTML in our own copy, not on Twitter's. You can scroll around on Twitter and play with all sorts of different HTML elements and see what happens.
+A new window will pop up where we can actually go in and type. Try deleting the body of the tweet, and entering your own message. Once you're done, just click outside of the text window, and take a look back at the tweet in the browser. It should have changed to your message.
 
+If you refresh the page, your text will disappear. We're just editing HTML in our own web browser, not on Twitter's web server. Feel free to scroll around on Twitter and play with all sorts of different HTML elements and see what happens.
+
+### Editing images
 See if you can find an image. It will be wrapped in HTML tags that start with `<img src=`.... You can right click on the image tag in the HTML and again select `Edit as HTML`. Between the quotes after `src=` you can replace the image with another one from a website. For example,
 
 ```
