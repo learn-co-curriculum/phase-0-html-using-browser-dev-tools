@@ -1,4 +1,12 @@
-## Dev Tools Super Power
+# Dev Tools Super Power
+
+## Problem Statement 
+By now, you're pretty familiar with HTML structural elements, and how they relate to each other on the page (great job on that quiz!). You might even feel pretty comfortable writing your own valid HTML. But most of the time as developers, we'll be jumping in on projects that are already in progress, which means that we'll need a way to view existing HTML and CSS, and potentially a way to play around with elements on live pages to see how we might potentially adjust things. 
+
+## Objectives 
+1. Open the developer tools
+2. Use the developer tools to locate and inspect elements
+3. Edit HTML using the developer tools
 
 The Developer tools that browsers provide you are super powerful and are a really good way to edit HTML and CSS and see immediately how those changes are rendered in the browser. We're going to be using the Chrome browser.
 
