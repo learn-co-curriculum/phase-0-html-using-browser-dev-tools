@@ -1,14 +1,19 @@
 # Dev Tools Super Power
 
 ## Problem Statement 
-By now, you're pretty familiar with HTML structural elements, and how they relate to each other on the page (great job on that quiz!). You might even feel pretty comfortable writing your own valid HTML. But most of the time as developers, we'll be jumping in on projects that are already in progress, which means that we'll need a way to view existing HTML and CSS, and potentially a way to play around with elements on live pages to see how we might potentially adjust things. 
+By now, you're pretty familiar with HTML structural elements, and how they relate to each other on the page (great job on that quiz!). You might even feel pretty comfortable writing your own valid HTML. But most of the time as developers, we'll be jumping in on projects that are already in progress, which means that we'll need a way to view existing HTML and CSS, and potentially a way to play around with elements on live pages to see how we might potentially adjust things. Luckily for us, most browsers have those kinds of tools already built in, called `developer tools`, or `dev tools` for short. 
+Note: The directions in this lesson refer directly to the dev tools on [Google Chrome](https://www.google.com/chrome/). Learn runs best on Chrome.
+
 
 ## Objectives 
+
 1. Open the developer tools
 2. Use the developer tools to locate and inspect elements
 3. Edit HTML using the developer tools
 
-The Developer tools that browsers provide you are super powerful and are a really good way to edit HTML and CSS and see immediately how those changes are rendered in the browser. We're going to be using the Chrome browser.
+## Open the developer tools 
+
+The Developer tools that browsers provide you are super powerful and are a great way to edit HTML and CSS and see immediately how those changes are rendered in the browser. We're going to be using the Chrome browser.
 
 For this lesson, please open the Twitter account of your favorite celebrity in Chrome. If you don't know their Twitter handle, a quick Google search should find it for you.
 
