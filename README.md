@@ -13,15 +13,15 @@ Note: The directions in this lesson refer directly to the dev tools on [Google C
 
 ## Open the developer tools 
 
-The Developer tools that browsers provide you are super powerful and are a great way to edit HTML and CSS and see immediately how those changes are rendered in the browser. We're going to be using the Chrome browser.
+The Developer tools that browsers provide you are super powerful and are a great way to edit HTML and CSS, and immediately see how those changes are rendered in the browser.
 
-For this lesson, please open the Twitter account of your favorite celebrity in Chrome. If you don't know their Twitter handle, a quick Google search should find it for you.
+For this lesson, please open the Twitter account of your favorite celebrity in Chrome. If you don't know their Twitter handle, a quick Google search should find it for you. _(Drawing a blank? Try using the [Flatiron School twitter account](https://twitter.com/flatironschool).)_
 
-Once the page is open, right click on the body of their very first tweet. You should get a list of options. We want to click on the one that says `Inspect Element`. This is going to bring up a window at the bottom of the page that contains all of the HTML that makes up that Twitter page.
+Once the page is open, right click on the body of their very first tweet. You should get a list of options. We want to click on the one that says `Inspect`. This is going to bring up a window at the bottom of the page that contains all of the HTML that makes up that Twitter page.
 
 If you hover over elements, you should see different colored boxes appear over different parts of the page. We're going to hover over the HTML until we find the section that contains the text of the first tweet. It should look like this:
 ```
-<p class="ProfileTweet-text js-tweet-text u-dir" dir="ltr">...</p>
+<p class="TweetTextSize TweetTextSize--normal js-tweet-text tweet-text" lang="en" data-aria-label-part="0">...</p>
 ```
 
 There should be a drop down arrow next to the first `<p`... when you click that, more text should show up, including the actual body of the tweet. We want to right click that text and select `Edit as HTML`.
