@@ -1,6 +1,13 @@
 # Dev Tools Super Power
 
-## Problem Statement 
+## Learning Goals
+
+1. Open the developer tools
+2. Use the developer tools to locate and inspect elements
+3. Edit HTML using the developer tools
+
+##  Introduction
+
 By now, you're pretty familiar with HTML structural elements, and how they
 relate to each other on the page. You might even feel pretty comfortable writing
 your own valid HTML. But much of the time as developers, we'll be jumping in on
@@ -10,12 +17,6 @@ how we might potentially adjust things. Luckily for us, most browsers have those
 kinds of tools already built in, called `developer tools`, or `dev tools` for
 short. In this lesson, we'll look at the `dev tools` on [Google
 Chrome](https://www.google.com/chrome/).
-
-
-## Objectives 
-1. Open the developer tools
-2. Use the developer tools to locate and inspect elements
-3. Edit HTML using the developer tools
 
 ## Open the Developer Tools 
 
