@@ -2,9 +2,9 @@
 
 ## Learning Goals
 
-1. Open the developer tools
+1. Examine the developer tools
 2. Use the developer tools to locate and inspect elements
-3. Edit HTML using the developer tools
+3. Use the developer tools to edit HTML
 
 ##  Introduction
 
@@ -18,7 +18,7 @@ kinds of tools already built in, called `developer tools`, or `dev tools` for
 short. In this lesson, we'll look at the `dev tools` on [Google
 Chrome](https://www.google.com/chrome/).
 
-## Open the Developer Tools 
+## Examine the Developer Tools
 
 The Developer tools that browsers provide you are a great way to experiment with
 HTML and CSS, and immediately see how those changes are rendered in the browser.
@@ -33,7 +33,7 @@ should get a list of options. We want to click on the one that says `Inspect`.
 This is going to bring up a window at the bottom of the page that contains all
 of the HTML that makes up that Twitter page.
 
-## Use the developer tools to locate and inspect elements
+## Use the Developer Tools to Locate and Inspect Elements
 
 If you hover over elements, you should see different colored boxes appear over
 different parts of the page. We're going to hover over the HTML until we find
@@ -43,7 +43,8 @@ the section that contains the text of the first tweet. It should look like this:
 lang="en" data-aria-label-part="0">...</p>
 ```
 
-## Edit HTML using the developer tools 
+## Use the Developer Tools to Edit HTML
+
 There should be a drop down arrow next to the first `<p`... If you don't already
 see more elements nested under that `<p>`, click on the arrow. When you click
 it, more text should show up, including the actual body of the tweet. Right
@@ -58,7 +59,8 @@ If you refresh the page, your text will disappear. We're just editing HTML in
 our own web browser, not on Twitter's web server. Feel free to scroll around on
 Twitter and play with all sorts of different HTML elements and see what happens.
 
-### Editing images
+### Editing Images
+
 See if you can find an image. It will be wrapped in HTML tags that start with
 `<img src=`.... You can right click on the image tag in the HTML and again
 select `Edit as HTML`. Between the quotes after `src=` you can replace the image
@@ -77,6 +79,7 @@ might become
 Feel free to play with other HTML elements and watch things change on the page.
 
 ### Bonus
+
 If you want to attempt to change any of the styles of the page, take a look at
 the right-hand column. CSS, which stands for Cascading StyleSheets, manages all
 the styles of your page (think background color, font size, placement of
