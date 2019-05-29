@@ -81,7 +81,7 @@ Feel free to play with other HTML elements and watch things change on the page.
 ### Bonus
 
 If you want to attempt to change any of the styles of the page, take a look at
-the right-hand column. CSS, which stands for Cascading StyleSheets, manages all
+the right-hand column. CSS, which stands for Cascading Style Sheets, manages all
 the styles of your page (think background color, font size, placement of
 different items on the page, etc).
 
