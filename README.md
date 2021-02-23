@@ -61,16 +61,11 @@ Twitter and play with all sorts of different HTML elements and see what happens.
 
 ### Editing Images
 
-See if you can find an image. It will be wrapped in HTML tags that start with
-`<img src=`.... You can right click on the image tag in the HTML and again
-select `Edit as HTML`. Between the quotes after `src=` you can replace the image
-with another one from a website. For example,
-
-```
-<img src="./my_image.jpg" alt="Some Image">
-```
-
-might become
+For this last activity, let's switch over to the [Flatiron School Wikipedia 
+Page](https://en.m.wikipedia.org/wiki/Flatiron_School) and inspect the Flatiron 
+logo. Right click on the image tag in the HTML and again select `Edit as HTML`. 
+Between the quotes after `src=` you can replace the image with another one from 
+a website. For example, you might change it to this:
 
 ```
 <img src="http://images2.fanpop.com/image/photos/9400000/Aaaaaawwwwwwwwww-Sweet-puppies-9415255-1600-1200.jpg" alt="Puppies">
