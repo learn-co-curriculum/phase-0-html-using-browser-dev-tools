@@ -1,4 +1,4 @@
-# Dev Tools Super Power
+# Using Your Browser's Developer Tools
 
 ## Learning Goals
 
