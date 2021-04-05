@@ -58,7 +58,7 @@ the page and play with all sorts of different HTML elements and see what happens
 
 ### Editing Images
 
-Now, right click on Alan Turing's picture on choose "Inspect". Right click on
+Now, right click on Alan Turing's picture and choose "Inspect". Right click on
 the image tag in the HTML and again select `Edit as HTML`. Let's replace the
 entire `<img>` tag with another image from a website. For example, you might
 change it to this:
