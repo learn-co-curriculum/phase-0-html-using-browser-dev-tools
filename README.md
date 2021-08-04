@@ -23,7 +23,9 @@ Chrome](https://www.google.com/chrome/).
 The Developer tools that browsers provide you are a great way to experiment with
 HTML and CSS, and immediately see how those changes are rendered in the browser.
 
-For this lesson, please open the [Wikipedia page for Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) in Chrome.
+For this lesson, please open the
+[Wikipedia page for Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) in
+Chrome.
 
 Once the page is open, right click on the title of the page — the header
 containing his name. You should get a list of options. We want to click on the
@@ -53,8 +55,9 @@ you're done, just click outside of the text window, and take a look back at the
 header in the browser. It should now say "Puppies Puppies Puppies."
 
 If you refresh the page, your text will disappear. We're just editing HTML in
-our own web browser, not on Wikipedia's web server. Feel free to scroll around on
-the page and play with all sorts of different HTML elements and see what happens.
+our own web browser, not on Wikipedia's web server. Feel free to scroll around
+on the page and play with all sorts of different HTML elements and see what
+happens.
 
 ### Editing Images
 
@@ -64,7 +67,10 @@ entire `<img>` tag with another image from a website. For example, you might
 change it to this:
 
 ```html
-<img src="http://images2.fanpop.com/image/photos/9400000/Aaaaaawwwwwwwwww-Sweet-puppies-9415255-1600-1200.jpg" alt="Puppies">
+<img
+  src="http://images2.fanpop.com/image/photos/9400000/Aaaaaawwwwwwwwww-Sweet-puppies-9415255-1600-1200.jpg"
+  alt="Puppies"
+/>
 ```
 
 Your puppy image should now be displaying on the page, but it's pretty big.
@@ -72,7 +78,11 @@ Let's add an attribute to our `<img>` tag to set the image's size. It should
 look like this:
 
 ```html
-<img src="http://images2.fanpop.com/image/photos/9400000/Aaaaaawwwwwwwwww-Sweet-puppies-9415255-1600-1200.jpg" width="200" alt="Puppies">
+<img
+  src="http://images2.fanpop.com/image/photos/9400000/Aaaaaawwwwwwwwww-Sweet-puppies-9415255-1600-1200.jpg"
+  width="200"
+  alt="Puppies"
+/>
 ```
 
 This attribute sets the width of the image to 200px and adjusts the height
